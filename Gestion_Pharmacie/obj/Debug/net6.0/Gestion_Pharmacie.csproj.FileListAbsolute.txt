@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Gestion_Pharmacie\bin\Debug\net6.0\Gestion_Pharmacie.exe
+C:\Users\HP\source\repos\Gestion_Pharmacie\bin\Debug\net6.0\Gestion_Pharmacie.deps.json
+C:\Users\HP\source\repos\Gestion_Pharmacie\bin\Debug\net6.0\Gestion_Pharmacie.runtimeconfig.json
+C:\Users\HP\source\repos\Gestion_Pharmacie\bin\Debug\net6.0\Gestion_Pharmacie.dll
+C:\Users\HP\source\repos\Gestion_Pharmacie\bin\Debug\net6.0\Gestion_Pharmacie.pdb
+C:\Users\HP\source\repos\Gestion_Pharmacie\obj\Debug\net6.0\Gestion_Pharmacie.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Gestion_Pharmacie\obj\Debug\net6.0\Gestion_Pharmacie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Gestion_Pharmacie\obj\Debug\net6.0\Gestion_Pharmacie.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Gestion_Pharmacie\obj\Debug\net6.0\Gestion_Pharmacie.AssemblyInfo.cs
+C:\Users\HP\source\repos\Gestion_Pharmacie\obj\Debug\net6.0\Gestion_Pharmacie.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Gestion_Pharmacie\obj\Debug\net6.0\Gestion_Pharmacie.dll
+C:\Users\HP\source\repos\Gestion_Pharmacie\obj\Debug\net6.0\refint\Gestion_Pharmacie.dll
+C:\Users\HP\source\repos\Gestion_Pharmacie\obj\Debug\net6.0\Gestion_Pharmacie.pdb
+C:\Users\HP\source\repos\Gestion_Pharmacie\obj\Debug\net6.0\Gestion_Pharmacie.genruntimeconfig.cache
+C:\Users\HP\source\repos\Gestion_Pharmacie\obj\Debug\net6.0\ref\Gestion_Pharmacie.dll
